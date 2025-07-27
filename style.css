@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  
+  color: #0000000;
+}
+body {
+  background-image: url('umbrella-portfolio.jpg'); /* Image de fond */
+  background-size: cover;                 /* Couvre toute la page */
+  background-repeat: no-repeat;           /* Pas de répétition */
+  background-position: center center;     /* Centrer l’image */
+}
+header {
+  background-color: 000000000;
+  color: #ffffff;
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+section {
+  padding: 2rem;
+  background-color: #83dab9;
+  margin: 1rem auto;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.projet {
+  margin-bottom: 1.5rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #333;
+  color: #fff;
+}
